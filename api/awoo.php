@@ -38,4 +38,3 @@ if ($request == null) {
 
     echo json_encode($return, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 }
-?>
